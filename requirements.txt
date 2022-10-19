@@ -1,6 +1,4 @@
 tk
-turtle
-import
 streamlit
 pandas
 numpy

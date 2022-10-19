@@ -1,5 +1,4 @@
 pandas
 numpy
-jsonlib-python3
 matplotlib
 altair

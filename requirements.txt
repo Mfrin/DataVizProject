@@ -1,5 +1,4 @@
 tk
-streamlit
 pandas
 numpy
 jsonlib-python3

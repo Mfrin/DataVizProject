@@ -2,6 +2,6 @@ tk
 streamlit
 pandas
 numpy
-jsonlib
+jsonlib-python3
 matplotlib
 altair

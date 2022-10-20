@@ -19,7 +19,7 @@ st.markdown("---")
 st.title('My holidays in Japan :sunglasses:')
 
 
-filepath = "C:/Users/marti/Documents/L4M1/Data_Visualization/2019_APRIL.json"
+filepath = "2019_APRIL.json"
 
 # here is the function that allows me to store the data from the json file to a standard pandas dataframe
 def maps(filepath):
